@@ -1,0 +1,39 @@
+<html>
+<head>
+<title> COMPUTER SCIENCE </title>
+</head>
+<body bgcolor="aqua">
+<marquee><font color="black" size="8"> Welcome To My page </font></marquee>
+<hr>
+<h2><center>CAREER</center></h2>
+<table border="2">
+<tr>
+<th colspan="2"> COMPUTER SCIENCE </th>
+<th colspan="2"> CHEMISTRY  </th>
+<th colspan="2"> PHYSICS </th>
+</tr>
+<tr>
+<td> THEORY </td>
+<td> PRACS </td>
+<td> THEORY </td>
+<td> PRACS </td>
+<td> THEORY </td>
+<td> PRACS </td>
+</tr>
+<tr>
+<td> 80 </td>
+<td> 50 </td>
+<td> 60 </td>
+<td> 80 </td>
+<td> 70 </td>
+<td> 70 </td>
+</tr>
+<tr>
+<td> 80 </td>
+<td> 50 </td>
+<td> 60 </td>
+<td> 80 </td>
+<td> 70 </td>
+<td> 70 </td>
+</tr>
+</table>
